@@ -69,15 +69,6 @@
 
 </div>
 
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luisabrambilla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=ff79c6&icon_color=bd93f9" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisabrambilla&layout=compact&theme=dracula&hide_border=true&title_color=ff79c6" />
-</div>
-
 <br>
 
 <div align="center">
