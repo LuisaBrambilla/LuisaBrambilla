@@ -2,10 +2,10 @@
 
   # Olá, sou a Luísa Brambilla ✨
   
-  **Cientista da Computação | Infraestrutura Cloud & Pesquisadora Residente em IA**
+  **Cientista da Computação | Infraestrutura Cloud & Residente em Inteligência Artificial**
   
   <p align="center">
-    Apaixonada por conectar a solidez da infraestrutura à inteligência e automação de dados.
+    Conectando ambientes resilientes de nuvem, engenharia de software e inteligência artificial aplicada.
   </p>
 
   <!-- Badges de Contato e Conexão -->
@@ -25,29 +25,45 @@
 
 ### 🌸 Sobre mim
 
-- 🎓 **Graduada em Ciência da Computação**, com olhar integrado entre engenharia de software e ambientes híbridos.
-- 💡 **Residente em Inteligência Artificial** pela **UnB** em parceria com o **Instituto de Pesquisas Eldorado**.
-- 🛠️ Atuação prática na gestão de **ambientes híbridos (Cloud & On-Premises)**, ecossistema Microsoft e governança em TI (ITIL).
-- 💬 Entusiasta de automações limpas, aprendizado contínuo e resolução analítica de problemas.
+- 🎓 **Graduada em Ciência da Computação**, unindo experiência em engenharia de software full stack a ambientes híbridos e governança de TI.
+- 💡 **Pesquisadora Residente em Inteligência Artificial** pela **UnB** em parceria com o **Instituto de Pesquisas Eldorado**.
+- 🛠️ Atuação prática na sustentação e migração corporativa para **Microsoft Azure / SharePoint / O365** e práticas fundamentadas em **ITIL**.
+- 🚀 Foco no desenvolvimento de soluções de ponta a ponta com **Python**, automação, pipelines de dados e IA.
 
 ---
 
-### 💻 Stack & Tecnologias
+### 📌 Projetos em Destaque
+
+#### 🔹 [NBase](https://github.com/LuisaBrambilla/NBase)
+> Plataforma voltada para centralização, organização e armazenamento estruturado de normas e documentos técnicos corporativos.  
+> **Tecnologias:** `Python` • `React` • `Node.js` • `JavaScript` • `MySQL`
+
+#### 🔹 [Challenge 1 - Residência em IA (UnB & Eldorado)](https://github.com/Challenge-1-Grupo-04-Residencia/challenge_1_residencia_ia_grupo_4)
+> Primeiro desafio prático de IA focado em análise exploratória, tratamento de dados e algoritmos de aprendizado de máquina.  
+> **Tecnologias:** `Python` • `Jupyter Notebook` • `Pandas` • `Scikit-Learn` • `Machine Learning`
+
+---
+
+### 💻 Stack & Ferramentas
 
 <div align="left">
 
-**Inteligência Artificial & Linguagens**  
+**Inteligência Artificial & Dados**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash/Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**Cloud & Infraestrutura**  
+**Desenvolvimento & Banco de Dados**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud, Infraestrutura & Governança**  
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Office 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-
-**Metodologias & Práticas**  
 ![ITIL](https://img.shields.io/badge/ITIL_Foundation-4B0082?style=flat-square&logo=itil&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
